@@ -1,0 +1,5 @@
+Upon observation from the above obtained values, Round Robin (RR) seems to be the most suitable scheduling algorithm in this scenario based on the lowest average waiting time and a reasonable average turnaround time.
+
+Round Robin values
+Average WT: 11.75
+Average TAT: 22.25
